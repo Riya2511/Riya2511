@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 &nbsp;
 
 - 💬 Ask me about Python, ReactJS, Django :ice_cream:
-- 📫 How to reach me: [LinkedIn]([https://www.linkedin.com/in/riya-jain-226476205/]) :hatched_chick: 
+- 🔭 Developer on the clock, mentor around the clock.
 - ⚡ Fun fact: If not on my laptop, you can find me grooving. 💃
 &nbsp;
 <p>
