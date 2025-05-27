@@ -1,16 +1,37 @@
-## Hi there 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Riya2511&label=Profile%20views&color=0e75b6&style=flat" alt="Riya2511" /> </p>
+<h1 align="center">✨ Hey there, I'm Riya! ✨</h1>
+<p align="center">
+  <strong>Bridging logic and creativity — one line of code at a time.</strong>
+</p>
+
+&nbsp;
+
+<h2 align="center">🧠 Developer on the clock, mentor around the clock 🚀</h2>
 
 <p align="center">
-<img height="200px" width="350px" src="https://i.imgur.com/0Ub8zlQ.gif" alt="image" />
+<img height="220px" width="380px" src="https://i.imgur.com/0Ub8zlQ.gif" alt="animated-coding-gif" />
 </p>
+
+---
+
+### 💬 Let's Connect Over Code
+
+- 🛠️ Currently building cool things with **Python**, **ReactJS**, and **Django**  
+- 🎓 Sharing knowledge like it's my superpower  
+- 🧩 Always solving puzzles — whether it’s a bug or a brain-teaser  
+- ⚡ **Fun fact**: If I’m not on my laptop, I’m grooving like nobody’s watching 💃
+
 &nbsp;
 
-- 💬 Ask me about Python, ReactJS, Django :ice_cream:
-- 🔭 Developer on the clock, mentor around the clock.
-- ⚡ Fun fact: If not on my laptop, you can find me grooving. 💃
-&nbsp;
 <p>
 <img width="425px" align="left" src="https://github-readme-stats.vercel.app/api?username=Riya2511&theme=blue-green&show_icons=true">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya2511&layout=compact&theme=algolia" alt="image" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya2511&layout=compact&theme=algolia" alt="top-langs" />
+</p>
+
+&nbsp;  
+<br><br><br><br><br><br><br><br><br>
+
+---
+
+<p align="center">
+  🔗 <strong>Let’s build, break, and learn together.</strong>
 </p>
