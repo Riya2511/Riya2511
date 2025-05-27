@@ -1,11 +1,7 @@
-<h1 align="center">✨ Hey there, I'm Riya! ✨</h1>
-<p align="center">
-  <strong>Bridging logic and creativity — one line of code at a time.</strong>
-</p>
-
+<h1 align="center">✨ I'm Riya, your dev-next-door! ✨</h1>
 &nbsp;
 
-<h2 align="center">🧠 Developer on the clock, mentor around the clock 🚀</h2>
+<h3 align="center">🧠 Developer on the clock, mentor around the clock 🚀</h3>
 
 <p align="center">
 <img height="220px" width="380px" src="https://i.imgur.com/0Ub8zlQ.gif" alt="animated-coding-gif" />
