@@ -1,5 +1,4 @@
 <h1 align="center">✨ I'm Riya, your dev-next-door! ✨</h1>
-&nbsp;
 
 <h3 align="center">🧠 Developer on the clock, mentor around the clock 🚀</h3>
 
